@@ -20,8 +20,4 @@
         <module name="intellij.libraries.compose.foundation.desktop"/>
         <module name="intellij.libraries.skiko"/>
     </dependencies>
-
-    <actions resource-bundle="messages.MyBundle">
-        <action id="dev.sebastiano.jewel.ijplugin.demo" class="dev.sebastiano.jewel.ijplugin.ComposeSampleAction"/>
-    </actions>
 </idea-plugin>

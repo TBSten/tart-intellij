@@ -1,1 +1,1 @@
-rootProject.name = "Jewel IJP Plugin"
+rootProject.name = "Tart Intellij Plugin"
